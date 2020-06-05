@@ -1,10 +1,6 @@
 # Javascript challange
 
-<p> author:Peyaschandr das</p>
 
-# Home page
-
-<img src=" ">
 
 ## Project setup
 
