@@ -1,6 +1,6 @@
 # Javascript challange
 
-<a href="https://vueapp321.herokuapp.com/">live Demo</a>
+<a href="https://vueapp321.herokuapp.com/" targer="_blank">Live Demo</a>
 
 
 ## Project setup
